@@ -6,9 +6,6 @@
 # testing
 /coverage
 
-# development
-/src
-
 # misc
 .DS_Store
 .env.local
