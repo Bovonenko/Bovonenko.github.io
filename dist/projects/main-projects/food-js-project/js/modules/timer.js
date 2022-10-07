@@ -1,6 +1,6 @@
 function timer(id, deadLine) {
     
-    // const deadLine = '2022-09-09T12:18:50';
+    // const deadLine = '2022-12-28T12:18:50';
     
     function getTimeRemaining(endTime) {
         let days, hours, minutes, seconds;
